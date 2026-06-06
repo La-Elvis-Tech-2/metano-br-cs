@@ -57,3 +57,8 @@ Structs/                   GeoCoordinate e MethaneReading
 O `MonitoringService` é o ponto central: registra sensores e satélites, coleta as
 leituras, grava no logger e dispara alertas quando o limite de ppm é ultrapassado.
 O `Program.cs` cuida só do menu e da exibição.
+
+## Prints das Interfaces
+<img width="706" height="465" alt="image" src="https://github.com/user-attachments/assets/c3d4c665-430e-4f98-852e-35508026c7dc" />
+
+> As demais execuções podem ser visualizadas funcionando através da execução do código
